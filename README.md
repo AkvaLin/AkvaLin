@@ -6,7 +6,7 @@
 
 Я начинающий iOS разработчик. Во время вуза я также пробовал себя во многих направлениях, начиная с геймдева(Unity, C#), заканчивая нейронками и сетями! Однако iOS разработка остается любимой. Проходил курсы и продолжаю самостоятельно изучать этот мир.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-pnr_vdc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikita.pivovarov2003@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-pnr_vdc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pnr_vdc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikita.pivovarov2003@gmail.com)
 
 ---
 
